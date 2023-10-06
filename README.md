@@ -21,7 +21,7 @@ To edit this repository in MakeCode.
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.gbantique }}/{{ site.github.brickcell-color-tcs34725 }}");</script>
 
 ## Credits to the original author for sharing their valuable work for us.
 

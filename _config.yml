@@ -2,6 +2,9 @@ makecode:
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
+github:
+  owner_name: gbantique
+  repository_name: brickcell-color-tcs34725
 theme: jekyll-theme-slate
 include:
   - assets

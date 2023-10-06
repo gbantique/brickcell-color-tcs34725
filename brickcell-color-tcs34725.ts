@@ -1,5 +1,5 @@
 //% color="#FFBF00" icon="\uf12e" weight=70
-namespace envirobit {
+namespace Brickcell {
     class tcs3472 {
         is_setup: boolean
         addr: number

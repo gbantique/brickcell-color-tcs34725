@@ -23,6 +23,18 @@ To edit this repository in MakeCode.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
+## Test File
+```ts
+basic.forever(function () {
+    basic.showIcon(IconNames.Heart);
+    serial.writeLine("R: " + Brickcell.getRed());
+    serial.writeLine("G: " + Brickcell.getGreen());
+    serial.writeLine("B: " + Brickcell.getBlue());
+    serial.writeLine("");
+    basic.pause(1000)
+})
+```
+
 ## Credits to the original author for sharing their valuable work for us.
 
 1. [https://github.com/pimoroni/pxt-envirobit/](https://github.com/pimoroni/pxt-envirobit/)

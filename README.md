@@ -26,7 +26,6 @@ To edit this repository in MakeCode.
 ## Test File
 ```ts
 basic.forever(function () {
-    basic.showIcon(IconNames.Heart);
     serial.writeLine("R: " + Brickcell.getRed());
     serial.writeLine("G: " + Brickcell.getGreen());
     serial.writeLine("B: " + Brickcell.getBlue());

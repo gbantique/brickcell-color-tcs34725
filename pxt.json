@@ -1,5 +1,5 @@
 {
-    "name": "brickcell-color-tcs34725 - Copy",
+    "name": "brickcell-color-tcs34725",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,11 +16,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.18",
+        "target": "6.0.19",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
